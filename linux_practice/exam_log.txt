@@ -63,3 +63,11 @@
    63  ls
    64  cd linux_practice
    65  history > exam_log.txt
+   66  git add exam_log.txt
+   67  git commit -m"Added exam_log.txt with command history"
+   68  git push
+   69  ld
+   70  ls
+   71  cat exam_log.txt
+   72  git checkout -b finalexam
+   73  history > exam_log.txt
