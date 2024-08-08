@@ -1,0 +1,65 @@
+    1  mkdir linux_practice
+    2  ls
+    3  cd linux_practice
+    4  touch notes.txt
+    5  cat notes.txt
+    6  nano notes.txt
+    7  echo "This is a practical exam" > notes.txt
+    8  head notes.txt
+    9  tail notes.txt
+   10  mkdir subdir
+   11  mv notes.txt subdir
+   12  cp notes.txt
+   13  cp notes.txt linux_practice
+   14  ls
+   15  cd subdir
+   16  ren
+   17  rename
+   18  h-
+   19  --help
+   20  ?
+   21  help
+   22  cd ..
+   23  ls
+   24  help rename
+   25  help info rename
+   26  rname
+   27  rename?
+   28  rename subdir practice_subdir
+   29  rename --help
+   30  rename -a subdir practice_subdir
+   31  rename subdir-a practice_subdir
+   32  rename --help
+   33  mv --help
+   34  mv practice_subdir linux_practice
+   35  name --r
+   36  ren 
+   37  rename
+   38  rename --help
+   39  rename(1)
+   40  date
+   41  uptime
+   42  chkdsk
+   43  chdsk 
+   44  cd ..
+   45  check
+   46  chsh
+   47  ssh --version
+   48  ssh -v
+   49  ssh --v
+   50  php -version
+   51  ssh -version
+   52  ssh -v
+   53  ssh --version
+   54  php -v
+   55  mysql -v
+   56  apache -v
+   57  apache2 -v
+   58  apachectl -v
+   59  python -v
+   60  python --version
+   61  java --version
+   62  gh repo clone https://github.com/HeroB27/231806164-bautista
+   63  ls
+   64  cd linux_practice
+   65  history > exam_log.txt
